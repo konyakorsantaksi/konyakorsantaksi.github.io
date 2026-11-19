@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Konya Korsan Taksi | Konya Havalimanı, Mevlana, Beyşehir</title>
+  <link href="https://konyakorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://konyakorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://konyakorsantaksi.github.io/</id>
+  <updated>2026-11-19T18:15:04.705Z</updated>
+  <author><name>Konya Korsan Taksi</name></author>
+  <entry>
+    <title>Konya Korsan Taksi | Konya Havalimanı, Mevlana, Beyşehir</title>
+    <link href="https://konyakorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://konyakorsantaksi.github.io/</id>
+    <updated>2026-11-19T18:15:04.705Z</updated>
+    <summary>Konya korsan taksi: Konya Havalimanı Selçuklu'dan 19 km, YHT garı, Mevlana Müzesi ve Sille, Çatalhöyük, Beyşehir, Akşehir, Ereğli ve Seydişehir yolu. 7/24.</summary>
+  </entry>
+</feed>
